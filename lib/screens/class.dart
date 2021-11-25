@@ -71,7 +71,7 @@ class ClassScreen extends StatelessWidget{
             Padding(
               padding: EdgeInsets.symmetric(vertical: 8, horizontal: 8),
               child: Text(
-                'Disciplina: Dispositivos Móveis',
+                'Disciplina: Gestão de Carreira',
                 textAlign: TextAlign.left,
                 overflow: TextOverflow.ellipsis,
                 style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
@@ -90,7 +90,63 @@ class ClassScreen extends StatelessWidget{
               style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
             ),
             Text(
-              'Docente: José Reginaldo',
+              'Docente: João Carlos',
+              //textAlign: TextAlign.center,
+              overflow: TextOverflow.ellipsis,
+              style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+            ),
+
+            Padding(
+              padding: EdgeInsets.symmetric(vertical: 8, horizontal: 8),
+              child: Text(
+                'Disciplina: Arquitetura de Software',
+                textAlign: TextAlign.left,
+                overflow: TextOverflow.ellipsis,
+                style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+              ),
+            ),
+            Text(
+              'Situação: Matrículado',
+              //textAlign: TextAlign.center,
+              overflow: TextOverflow.ellipsis,
+              style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+            ),
+            Text(
+              'Período: Graduação',
+              //textAlign: TextAlign.center,
+              overflow: TextOverflow.ellipsis,
+              style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+            ),
+            Text(
+              'Docente: Regiano Alves',
+              //textAlign: TextAlign.center,
+              overflow: TextOverflow.ellipsis,
+              style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+            ),
+
+            Padding(
+              padding: EdgeInsets.symmetric(vertical: 8, horizontal: 8),
+              child: Text(
+                'Disciplina: Auditoria e Segurança',
+                textAlign: TextAlign.left,
+                overflow: TextOverflow.ellipsis,
+                style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+              ),
+            ),
+            Text(
+              'Situação: Matrículado',
+              //textAlign: TextAlign.center,
+              overflow: TextOverflow.ellipsis,
+              style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+            ),
+            Text(
+              'Período: Graduação',
+              //textAlign: TextAlign.center,
+              overflow: TextOverflow.ellipsis,
+              style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+            ),
+            Text(
+              'Docente: Marcos Cicero',
               //textAlign: TextAlign.center,
               overflow: TextOverflow.ellipsis,
               style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
